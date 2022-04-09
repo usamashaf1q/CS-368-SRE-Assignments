@@ -1,1 +1,13 @@
 # CS-368-SRE-Assignments
+- ### Assignment 1
+    -  Add account on Github and give access to your group members, Mr. Ahmad Farooq, and me.
+    - ✅ Done.
+- ### [Assignment 2](https://github.com/usamashaf1q/CS-368-SRE-Assignments/blob/master/Refatoring_Tool.pdf)
+    - Write a brief report about the Refactoring support available on your preferred IDE. The IDE chosen by you must have this support. Put this report on your Github repository.
+    - ✅ Done.
+- ### [Assignment 3](https://github.com/usamashaf1q/CS-368-SRE-Assignments/blob/master/UpdateQuality.java)
+    - Use the tool to refactor the code given in the attached file. Put the refactored code in your Github repository.
+    - ✅ Done.
+- ### [Assignment 4](https://github.com/usamashaf1q/CS-368-SRE-Assignments/blob/master/SWOT_Analysis.pdf)
+    - SWOT analysis of GIFT UNIVERSITY
+    - ✅ Done.
